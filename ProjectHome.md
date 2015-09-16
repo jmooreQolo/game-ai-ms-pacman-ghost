@@ -1,0 +1,1 @@
+Assignment was to create an AI for the Ghosts of Ms. Pacman to as closely match the original game as possible.
